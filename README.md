@@ -1,4 +1,4 @@
-# Machine_Larning_Regression_Used_Car_Pricing_in_India  
+# Machine Learning Regression Used Car Pricing Model in ndia  
 
 **Name of project**: Used Car Pricing Model in India  
 **Aim**: To predict the price of used car with machine learning regression.  
